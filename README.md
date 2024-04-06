@@ -1,1 +1,1 @@
-# TokyoKogyoUniversity
+# selfChatGPT
